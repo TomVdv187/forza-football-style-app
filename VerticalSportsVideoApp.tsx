@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Play, Pause, Volume2, VolumeX, ChevronUp, ChevronDown, BarChart2, Users, Activity, Trophy, RotateCcw } from "lucide-react";
