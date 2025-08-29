@@ -78,13 +78,13 @@ const SAMPLE_VERTICALS = [
   {
     id: "football",
     label: "Arsenal vs Chelsea",
-    src: "https://cdn.coverr.co/videos/coverr-soccer-dribble-9602/1080p.mp4",
+    src: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     sport: "football" as const,
   },
   {
     id: "basketball",
-    label: "Lakers vs Warriors",
-    src: "https://cdn.coverr.co/videos/coverr-basketball-shoot-9992/1080p.mp4",
+    label: "Lakers vs Warriors", 
+    src: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
     sport: "basketball" as const,
   },
 ];
