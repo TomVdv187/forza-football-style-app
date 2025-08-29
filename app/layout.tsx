@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Forza Football Style App',
-  description: 'Vertical sports video app inspired by Forza Football',
+  description: 'Vertical sports video app inspired by Forza Football - Mobile optimized',
 }
 
 export default function RootLayout({
